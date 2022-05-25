@@ -1,5 +1,5 @@
 var cvs = document.getElementById("canvas")
-var vid = cvs.getcontext("2d").getcontext
+var vid = cvs.getcontext("2d")
 
 var bird = new image()
 var bg = new image()
